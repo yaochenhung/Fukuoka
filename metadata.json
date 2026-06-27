@@ -1,0 +1,10 @@
+{
+  "name": "福岡旅遊與交通指南",
+  "description": "福岡旅遊的響應式網頁，包含旅館與景點標示、交通方式與詳細班次時刻表，並整合 Google 地圖導航與行程規劃。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
